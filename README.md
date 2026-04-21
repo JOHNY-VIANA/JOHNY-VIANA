@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Johny Viana</h1>
 
 <p align="center">
-  💻 Estudante de Engenharia de Software • ⚙️ Técnico em Eletromecânica • 🔌 Técnico em Eletrotécnica
+💻 Estudante de Engenharia de Software • ⚙️ Técnico em Eletromecânica • 🔌 Técnico em Eletrotécnica
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🔌 Técnico em Eletrotécnica  
 - 💼 Experiência em PCM (Planejamento e Controle de Manutenção)  
 - 🧠 Estudando Engenharia de Software e programação (Python, HTML, CSS e JavaScript)  
-- 🔧 Interesse em automação e tecnologia industrial  
+- 🔧 Interesse em automação industrial e desenvolvimento de sistemas  
 - 📍 Presidente Figueiredo - AM  
 
 ---
@@ -36,8 +36,11 @@
 
 ## 🔥 Projetos em destaque
 
-- 💰 Sistema de Registro de Vendas  
- 
+### 💼 Currículo Online
+Site pessoal desenvolvido com HTML e CSS, hospedado no GitHub Pages, com foco em apresentação profissional e responsiva.
+
+### 💰 Sistema de Registro de Vendas
+Aplicação desenvolvida para controle e organização de vendas, permitindo registro e acompanhamento de dados de forma simples e eficiente.
 
 ---
 
@@ -45,18 +48,23 @@
 
 - 🚀 Me tornar Engenheiro de Software  
 - 💡 Criar soluções tecnológicas reais  
-- 🏭 Trabalhar com automação industrial  
+- 🏭 Trabalhar com automação industrial integrada à tecnologia  
 
 ---
 
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-LINK">
+  <a href="https://www.linkedin.com/in/johny-viana-2641961a8" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
   <a href="mailto:johnyviana0007@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://wa.me/5592994787912">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
 
@@ -64,6 +72,6 @@
 
 <br>
 
-<h2>⚡ Curiosidade</h2>
+## ⚡ Curiosidade
 
-<p>💡 Transformo ideias simples em soluções práticas usando tecnologia.</p>
+💡 Transformo ideias simples em soluções práticas usando tecnologia.

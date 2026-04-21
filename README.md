@@ -37,7 +37,7 @@
 ## 🔥 Projetos em destaque
 
 - 💰 Sistema de Registro de Vendas  
-- 🌐 Site das Cachoeiras de Presidente Figueiredo  
+ 
 
 ---
 
